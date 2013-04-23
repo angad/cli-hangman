@@ -1,0 +1,11 @@
+README 
+CG3204L GuessMe!
+
+To compile
+./compile.sh
+
+To start the client
+./client.sh
+
+To start the server
+./server.sh
